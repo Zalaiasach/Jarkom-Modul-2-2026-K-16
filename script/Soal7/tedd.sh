@@ -1,0 +1,1 @@
+rndc retransfer k16.com 2>/dev/null || rndc reload
